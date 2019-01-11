@@ -33,7 +33,7 @@ var _createClass = function () {function defineProperties(target, props) {for (v
   }_createClass(App, [{ key: "render", value: function render()
     {
       return (
-        React.createElement("div", { className: "container-fluid p-5", style: {  height: "100vh", backgroundColor: this.state.bgColor } },
+        React.createElement("div", { className: "container-fluid p-5", style: {  height: "130vh", backgroundColor: this.state.bgColor } },
           React.createElement("div", { className: "container" },
             React.createElement("div", { className: "row" },
               React.createElement("div", { className: "col-md-6 mx-auto" },
